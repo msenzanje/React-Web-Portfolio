@@ -1,31 +1,26 @@
 [
     {
-      "role": "Software Engineer",
-      "organization": "Google",
-      "startDate": "Sept, 2022",
+      "role": "PEP Coach",
+      "organization": "The University Of Texas at Tyler",
+      "startDate": "Jun, 2023",
       "endDate": "Present",
-      "experiences": ["Worked on Google Maps", "Reduced load times by 50%"],
-      "imageSrc": "history/google.png"
-    },
-    
-    {
-      "role": "UI Designer",
-      "organization": "Mirosoft",
-      "startDate": "Aug, 2021",
-      "endDate": "Aug, 2022",
-      "experiences": ["Worked on Windows 11", "Designed the control panel"],
-      "imageSrc": "history/microsoft.png"
-    },
-
-    {
-      "role": "SWE Intern",
-      "organization": "Netflix",
-      "startDate": "Apr, 2020",
-      "endDate": "Jun, 2020",
       "experiences": [
-        "Worked on component library",
-        "Helped create UI components"
+        "Increased engagement by leading and mentoring a group of 500 freshmen in the Soules College of Business",
+        "Organize, attend, and manage on campus events such as De-Stress Fest and Library Study Nights.",
+        "Aid approximately 15 mentees in courses such as programming fundamentals and object orientated paradigm. "
       ],
-      "imageSrc": "history/netflix.png"
+      "imageSrc": "history/uttyler.png"
+    },
+    {
+      "role": "Crew Member",
+      "organization": "Jersey Mikes",
+      "startDate": "Jun, 2022",
+      "endDate": "Aug, 2024",
+      "experiences": [
+        "Interacted and engaged with customers. ",
+        "Adapted to high pressure environments. ",
+        "Engaged with the local community, bringing in more customers. "
+      ],
+      "imageSrc": "history/jerseymikes.png"
     }
   ]
