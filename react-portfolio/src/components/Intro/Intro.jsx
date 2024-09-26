@@ -8,10 +8,11 @@ export const Intro = () => {
         <div className= {styles.content}>
             <h1 className= {styles.title}>Hi, I'm Melusi</h1>
             <p className={styles.description}>
-                I am a Computer Science student set to
-                graduate in 2026. I have expeience using Java, C, 
-                and the Flutter framework. <br/>
-                Reach out if you'd like to learn more!
+                I'm a passionate Computer Science student graduating 
+                in 2026, with hands-on experience in Java, MySQl, the 
+                Flutter framework and more. I'm always excited to learn 
+                and collaborate. <br/>
+                Feel free to reach out if you'd like to connect!!
             </p>
             <a href="mailto:email@email.com" className={styles.contactBtn}>
                 Contact Me

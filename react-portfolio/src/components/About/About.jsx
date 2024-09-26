@@ -17,10 +17,11 @@ export const About = () => {
                         alt="Image of a cursor"
                     />
                     <div className={styles.aboutItemText}>
-                        <h3>Frontend Developer</h3>
+                        <h3>Frontend Development</h3>
                         <p>
-                            I'm a frontend with experience buoilding
-                            and optimized applications
+                            I have experience in front-end development,
+                            creating beautiful and interactive layouts
+                            using Google’s Flutter framework
                         </p>
                     </div>
                 </li>
@@ -31,24 +32,29 @@ export const About = () => {
                         alt="Image of a server"
                     />
                     <div className={styles.aboutItemText}>
-                        <h3>Backend Developer</h3>
+                        <h3>Java Developer</h3>
                         <p>
-                            Test text to be filled matching relevent
-                            skill set
+                            Java has been the primary language throughout
+                            my coursework, therefore providing me with a
+                            solid foundation in its core principles. I have
+                            gained a strong understanding of object-oriented programming and
+                            data structures using Java.
                         </p>
                     </div>
                 </li>
 
                 <li className={styles.aboutItem}>
                     <img
-                        src={getImageUrl("about/serverIcon.png")}
-                        alt="UI Icon"
+                        src={getImageUrl("about/uiIcon.png")}
+                        alt="Image of basic UI"
                     />
                     <div className={styles.aboutItemText}>
-                        <h3>UI Designer</h3>
+                        <h3>Computer Vision Enthusiast</h3>
                         <p>
-                            Test text to be filled matching relevent
-                            skill set
+                            My team and I are working on a computer vision
+                            project utilizing OpenCV, TensorFlow and more. I have
+                            a strong interest in this field and am eager
+                            to expand my knowledge and skills as we progress.
                         </p>
                     </div>
                 </li>
