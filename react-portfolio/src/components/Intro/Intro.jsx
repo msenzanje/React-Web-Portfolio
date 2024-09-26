@@ -9,7 +9,7 @@ export const Intro = () => {
             <h1 className= {styles.title}>Hi, I'm Melusi</h1>
             <p className={styles.description}>
                 I'm a passionate Computer Science student graduating 
-                in 2026, with hands-on experience in Java, MySQl, the 
+                in 2026, with hands-on experience in Java, MySQL, the 
                 Flutter framework and more. I'm always excited to learn 
                 and collaborate. <br/>
                 Feel free to reach out if you'd like to connect!!
