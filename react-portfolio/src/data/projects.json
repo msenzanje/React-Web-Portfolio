@@ -2,8 +2,8 @@
     {
       "title": "Patriots Engage Mobile Application",
       "imageSrc": "projects/patriotsengage.png",
-      "description": "Developing a highly interactive maps page using Google’s Flutter framework",
-      "skills": ["Dart", "Flutter", "Git"],
+      "description": "Developed a highly interactive maps page using Google’s Flutter framework",
+      "skills": ["Dart", "Flutter", "Git", "MapBox API"],
       "demo": "https://www.example.com",
       "source": "https://www.github.com"
     }

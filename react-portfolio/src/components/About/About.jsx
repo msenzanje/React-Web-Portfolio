@@ -17,11 +17,11 @@ export const About = () => {
                         alt="Image of a cursor"
                     />
                     <div className={styles.aboutItemText}>
-                        <h3>Frontend Development</h3>
+                        <h3>Mobile Application Development</h3>
                         <p>
                             I have experience in front-end development,
                             creating beautiful and interactive layouts
-                            using Google’s Flutter framework
+                            using <strong>Google’s Flutter framework.</strong>
                         </p>
                     </div>
                 </li>
@@ -32,13 +32,14 @@ export const About = () => {
                         alt="Image of a server"
                     />
                     <div className={styles.aboutItemText}>
-                        <h3>Java Developer</h3>
+                        <h3>Machine Learning Development</h3>
                         <p>
-                            Java has been the primary language throughout
-                            my coursework, therefore providing me with a
-                            solid foundation in its core principles. I have
-                            gained a strong understanding of object-oriented programming and
-                            data structures using Java.
+                        I have experience working on a computer vision 
+                        project utilizing <strong>Google Colab, 
+                        OpenCV, and TensorFlow, </strong> fine-tuning 
+                        <strong>YOLOv8n</strong> for a program aiding the 
+                        visually impaired. I am passionate about this field 
+                        and eager to grow my knowledge and skills.
                         </p>
                     </div>
                 </li>
@@ -49,12 +50,16 @@ export const About = () => {
                         alt="Image of basic UI"
                     />
                     <div className={styles.aboutItemText}>
-                        <h3>Computer Vision Enthusiast</h3>
+                        <h3>Java Developer</h3>
                         <p>
-                            My team and I are working on a computer vision
-                            project utilizing OpenCV, TensorFlow and more. I have
-                            a strong interest in this field and am eager
-                            to expand my knowledge and skills as we progress.
+                            Java has been the primary language throughout
+                            my coursework, therefore providing me with a
+                            solid foundation in its core principles. I have
+                            gained a strong understanding of 
+                            <strong> object-oriented</strong> programming and
+                            <strong> data structures</strong> using Java.
+
+                           
                         </p>
                     </div>
                 </li>
