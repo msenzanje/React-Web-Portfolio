@@ -1,8 +1,17 @@
 [
     {
+      "title": "Viz",
+      "imageSrc": "projects/patriotsengage.png",
+      "description": " Utilized Agile methodology and Jira for seamless task management and sprint planning. Managed and annotated datasets using Roboflow, fine-tuned the YOLOv8 model in Google Colab, and leveraged Git for efficient version control and collaboration.",
+      "skills": ["Python", "Google Colab", "Attlasian JIRA", "Roboflow", "Git"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+
+    {
       "title": "Patriots Engage Mobile Application",
       "imageSrc": "projects/patriotsengage.png",
-      "description": "Developed a highly interactive maps page using Google’s Flutter framework",
+      "description": "Collaborating with Members of the Association of Computer Machinery at The University of Texas at Tyler, Developed a visually appealing and highly interactive application using Google’s Flutter framework,focusing on smooth user experience and functionality.",
       "skills": ["Dart", "Flutter", "Git", "MapBox API"],
       "demo": "https://www.example.com",
       "source": "https://www.github.com"
