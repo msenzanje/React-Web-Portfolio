@@ -1,13 +1,21 @@
 [
+  
+    {
+      "title": "MNIST Digit Classification",
+      "imageSrc": "projects/mnistclassification.png",
+      "description": "Developed a neural network to classify digits in the MNIST dataset, showcasing foundational concepts of neural networks. Utilized the PyTorch framework along with Python libraries such as NumPy for data manipulation, and matplotlib for visualization ",
+      "skills": ["Python", "PyTorch", "Jupyter Notebooks", "NumPy", "Git"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
     {
       "title": "Viz",
-      "imageSrc": "projects/patriotsengage.png",
+      "imageSrc": "projects/vizproject.png",
       "description": " Utilized Agile methodology and Jira for seamless task management and sprint planning. Managed and annotated datasets using Roboflow, fine-tuned the YOLOv8 model in Google Colab, and leveraged Git for efficient version control and collaboration.",
       "skills": ["Python", "Google Colab", "Attlasian JIRA", "Roboflow", "Git"],
       "demo": "https://www.example.com",
       "source": "https://www.github.com"
     },
-
     {
       "title": "Patriots Engage Mobile Application",
       "imageSrc": "projects/patriotsengage.png",

@@ -34,12 +34,11 @@ export const About = () => {
                     <div className={styles.aboutItemText}>
                         <h3>Machine Learning Development</h3>
                         <p>
-                        I have experience working on a computer vision 
-                        project utilizing <strong>Google Colab, 
-                        OpenCV, and TensorFlow, </strong> fine-tuning 
+                        I have experience working on computer vision 
+                        solutions. Such as, utilizing <strong>Google Colab, 
+                        OpenCV, and PyTorch, </strong> fine-tuning 
                         <strong>YOLOv8n</strong> for a program aiding the 
-                        visually impaired. I am passionate about this field 
-                        and eager to grow my knowledge and skills.
+                        visually impaired.
                         </p>
                     </div>
                 </li>
