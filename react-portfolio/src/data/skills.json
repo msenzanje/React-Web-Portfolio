@@ -1,5 +1,9 @@
 [
     {
+      "title": "Python",
+      "imageSrc": "skills/python.png"
+    },
+    {
       "title": "Java",
       "imageSrc": "skills/java.png"
     },
@@ -7,9 +11,9 @@
       "title": "MySQL",
       "imageSrc": "skills/MySQL.png"
     },
-    {
-      "title": "Python",
-      "imageSrc": "skills/python.png"
+    { 
+      "title": "PyTorch",
+      "imageSrc": "skills/pytorch.png"
     },
     {
       "title": "Git",
