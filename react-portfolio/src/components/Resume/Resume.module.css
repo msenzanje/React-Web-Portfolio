@@ -14,9 +14,10 @@
     letter-spacing: 1.75px;
     text-transform: uppercase;
     padding-bottom: 20px;
+    justify-items: center;
 }
 
-.document{
+.document {
     width: 750px;
     height: 950px;
     justify-items: center;

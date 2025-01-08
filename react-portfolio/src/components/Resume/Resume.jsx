@@ -7,7 +7,7 @@ export const Resume = () =>{
         <h2 className={styles.title}>Resume</h2>
         <div>
             <iframe className={styles.document}
-            src="https://drive.google.com/file/d/1cxbONdtJATQJT8vy1OR8fPoC_3W5L_Mm/preview" 
+            src="https://drive.google.com/file/d/1zwtyeyi3gvPbS5ppQ3Q77dPq7q27dJ_0/preview" 
             allow="autoplay"
                    
             />
