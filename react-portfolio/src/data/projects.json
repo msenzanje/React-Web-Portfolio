@@ -9,12 +9,20 @@
       "source": "https://www.github.com"
     },
     {
-      "title": "Viz",
+      "title": "Viz - Navigation Assistance",
       "imageSrc": "projects/vizproject.png",
       "description": " Utilized Agile methodology and Jira for seamless task management and sprint planning. Managed and annotated datasets using Roboflow, fine-tuned the YOLOv8 model in Google Colab, and leveraged Git for efficient version control and collaboration.",
       "skills": ["Python", "Google Colab", "Attlasian JIRA", "Roboflow", "Git"],
       "demo": "https://www.example.com",
       "source": "https://www.github.com"
+    },
+    {
+      "title": "Tableau Health Data Dashboard",
+      "imageSrc": "projects/dashboard.png",
+      "description": "Extracted and analyzed data from datasets with over 6.2 million entries using PostgreSQL and created a Tableau dashboard to visualize flu immunization trends from a dataset of 11,000 entries.",
+      "skills": ["Tableau", "PostgreSQL", "SQL", "Data Analysis","Visualization", "Git"],
+      "demo": "https://public.tableau.com/app/profile/melusi.senzanje/viz/FluShotDashboard_17360218763480/FluShotDashboard?publish=yes",
+      "source": "https://github.com/msenzanje/Health-Data-Dashboard"
     },
     {
       "title": "Patriots Engage Mobile Application",

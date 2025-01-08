@@ -19,7 +19,7 @@
     z-index: 1;
 }
 
-.title{
+.title {
     font-size: 72px;
     font-weight: 900;
     font-family: var(--font-roboto);
@@ -30,6 +30,9 @@
     );
     -webkit-text-fill-color: transparent;
     -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+
 } 
 
 .description{

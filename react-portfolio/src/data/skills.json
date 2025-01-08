@@ -8,6 +8,14 @@
       "imageSrc": "skills/java.png"
     },
     {
+      "title": "PostgreSQL",
+      "imageSrc": "skills/PostgreSQL.png"
+    },
+    {
+      "title": "Tableau",
+      "imageSrc": "skills/Tableau.png"
+    },
+    {
       "title": "MySQL",
       "imageSrc": "skills/MySQL.png"
     },
