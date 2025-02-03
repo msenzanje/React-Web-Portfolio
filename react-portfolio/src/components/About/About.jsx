@@ -17,11 +17,16 @@ export const About = () => {
                         alt="Image of a cursor"
                     />
                     <div className={styles.aboutItemText}>
-                        <h3>Mobile Application Development</h3>
+                        <h3>Software Engineering</h3>
                         <p>
-                            I have experience in front-end development,
-                            creating beautiful and interactive layouts
-                            using <strong>Google’s Flutter framework.</strong>
+                        I have experience developing efficient solutions 
+                        using <strong> Python </strong>and <strong> Java</strong>. 
+                        My expertise includes building, implementing 
+                        machine learning models with <strong>PyTorch</strong>,
+                        developing data-driven applications, and more. I have 
+                        worked on projects involving <strong>database 
+                        management, object detection</strong>, and 
+                        <strong> data visualization</strong>.
                         </p>
                     </div>
                 </li>
@@ -32,13 +37,14 @@ export const About = () => {
                         alt="Image of a server"
                     />
                     <div className={styles.aboutItemText}>
-                        <h3>Machine Learning Development</h3>
+                        <h3> Machine Learning</h3>
                         <p>
-                        I have experience working on computer vision 
-                        solutions. Such as, utilizing <strong>Google Colab, 
-                        OpenCV, and PyTorch, </strong> fine-tuning 
-                        <strong>YOLOv8n</strong> for a program aiding the 
-                        visually impaired.
+                        I have experience in machine learning, developing and 
+                        training models using <strong>Python, PyTorch</strong>, and 
+                        <strong> OpenCV</strong>. My expertise includes deep learning, 
+                        image classification, and object detection, with hands-on 
+                        experience fine-tuning <strong>YOLOv8</strong> for 
+                        real-world applications
                         </p>
                     </div>
                 </li>
@@ -49,16 +55,13 @@ export const About = () => {
                         alt="Image of basic UI"
                     />
                     <div className={styles.aboutItemText}>
-                        <h3>Java Developer</h3>
+                        <h3>Data Analysis</h3>
                         <p>
-                            Java has been the primary language throughout
-                            my coursework, therefore providing me with a
-                            solid foundation in its core principles. I have
-                            gained a strong understanding of 
-                            <strong> object-oriented</strong> programming and
-                            <strong> data structures</strong> using Java.
-
-                           
+                        I have experience in data analysis, extracting insights 
+                        from large datasets using <strong>SQL</strong>. My expertise 
+                        includes data visualization with <strong>Tableau</strong>, 
+                        statistical analysis, and database management with 
+                        <strong> PostgreSQL</strong> and <strong>MySQL</strong>.        
                         </p>
                     </div>
                 </li>
