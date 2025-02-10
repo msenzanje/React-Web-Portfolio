@@ -42,6 +42,13 @@
     }
   }
 
+@media (max-width: 600px) {
+    .title {
+        font-size: clamp(18px, 6vw, 48px);
+        width: min(100%, 11ch);
+    }
+}
+
 .description{
     font-size: 30px;
     font-family: var(--font-roboto);

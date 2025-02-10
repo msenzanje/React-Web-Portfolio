@@ -9,7 +9,7 @@ export const Intro = () => {
             <h1 className= {styles.title}>Hi, I'm Melusi</h1>
             <p className={styles.description}>
                 Aspiring Software Engineer and Data Scientist with
-                hands-on experience in <strong>Pyhton, MySQL, Java, Dart </strong>  
+                hands-on experience in <strong>Python, MySQL, Java, Dart </strong>  
                 and other technologies.
             </p>
             <p className={styles.description}>
