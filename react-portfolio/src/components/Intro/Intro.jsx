@@ -26,7 +26,7 @@ export const Intro = () => {
             </a>
         </div>
         <img 
-            src={getImageUrl("hero/portraitIcon.png")} 
+            src={getImageUrl("hero/portraitIconcomp.png")} 
             alt="Potrait photo of me" 
             className={styles.heroImg}
         />
