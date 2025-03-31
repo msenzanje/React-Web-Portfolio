@@ -6,7 +6,7 @@
       "description": "Developed a neural network to classify digits in the MNIST dataset, showcasing foundational concepts of neural networks. Utilized the PyTorch framework along with Python libraries such as NumPy for data manipulation, and matplotlib for visualization ",
       "skills": ["Python", "PyTorch", "Jupyter Notebooks", "NumPy", "Git"],
       "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "source": "https://github.com/msenzanje/PyTorch-mnist-classification"
     },
     {
       "title": "Viz - Navigation Assistance",
@@ -14,7 +14,7 @@
       "description": " Utilized Agile methodology and Jira for seamless task management and sprint planning. Managed and annotated datasets using Roboflow, fine-tuned the YOLOv8 model in Google Colab, and leveraged Git for efficient version control and collaboration.",
       "skills": ["Python", "Google Colab", "Attlasian JIRA", "Roboflow", "Git"],
       "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "source": "https://github.com/msenzanje/Viz"
     },
     {
       "title": "Tableau Health Data Dashboard",
@@ -30,7 +30,7 @@
       "description": "Collaborating with Members of the Association of Computer Machinery at The University of Texas at Tyler, Developed a visually appealing and highly interactive application using Google’s Flutter framework,focusing on smooth user experience and functionality.",
       "skills": ["Dart", "Flutter", "Git", "MapBox API"],
       "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "source": "https://github.com/msenzanje"
     }
     
   ]
