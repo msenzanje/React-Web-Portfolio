@@ -9,12 +9,16 @@ export const About = () => {
             <img className={styles.aboutImage}
                 src={getImageUrl("about/aboutImage.png")}
                 alt="Picture of a monitor and keyboard"
+                loading="lazy"
+                decoding="async"
             />
             <ul className={styles.aboutItems}>
                 <li className={styles.aboutItem}>
                     <img
                         src={getImageUrl("about/cursorIcon.png")}
                         alt="Image of a cursor"
+                        loading="lazy"
+                        decoding="async"
                     />
                     <div className={styles.aboutItemText}>
                         <h3>Software Engineering</h3>
@@ -35,6 +39,8 @@ export const About = () => {
                     <img
                         src={getImageUrl("about/serverIcon.png")}
                         alt="Image of a server"
+                        loading="lazy"
+                        decoding="async"
                     />
                     <div className={styles.aboutItemText}>
                         <h3> Machine Learning</h3>
@@ -53,6 +59,8 @@ export const About = () => {
                     <img
                         src={getImageUrl("about/uiIcon.png")}
                         alt="Image of basic UI"
+                        loading="lazy"
+                        decoding="async"
                     />
                     <div className={styles.aboutItemText}>
                         <h3>Data Analysis</h3>

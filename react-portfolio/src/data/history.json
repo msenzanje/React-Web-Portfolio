@@ -1,4 +1,17 @@
 [
+   {
+      "role": "Department of Electrical Engineering | Research Assistant",
+      "organization": "University Of Texas at Tyler",
+      "startDate": "May, 2025",
+      "endDate": "Present",
+      "experiences": [
+        "Optimize communication protocols to enhance performance in embedded systems",
+        "Write scripts to test and validate Bluetooth, Ultra-Wideband (UWB)",
+        "Debugging wireless communication stacks.",
+        "Performance benchmarking, interoperability testing"
+    ],
+    "imageSrc": "history/uttyler_seal.svg"
+    },
     {
       "role": "Department of Comptuter Science | Teaching Assistant",
       "organization": "University Of Texas at Tyler",
@@ -9,19 +22,18 @@
         "Assist professors in preparing and delivering course materials in Database Management Concepts.",
         "Grade assignments, quizzes, and exams with attention to accuracy and timely feedback."
     ],
-    "imageSrc": "history/uttyler.png"
+    "imageSrc": "history/uttyler_seal.svg"
     },
     {
-      "role": "Dean of Students | PEP Coach",
+      "role": "Dean of Students | Student Mentor",
       "organization": "University Of Texas at Tyler",
       "startDate": "Jun, 2023",
       "endDate": "Present",
       "experiences": [
-        "Increased engagement by leading and mentoring a group of 500 freshmen in the Soules College of Business.",
-        "Organize, attend, and manage on campus events such as De-Stress Fest and Library Study Nights.",
-        "Aid approximately 15 mentees in courses such as programming fundamentals and object orientated paradigm. "
+        "Increased engagement by leading and mentoring a group of 500 freshmen",
+        "Aid approximately 15 mentees in Computer Science courses"
       ],
-      "imageSrc": "history/uttyler.png"
+      "imageSrc": "history/uttyler_seal.svg"
     },
     {
       "role": "Crew Member",
